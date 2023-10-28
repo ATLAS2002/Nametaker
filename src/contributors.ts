@@ -59,8 +59,8 @@ const contributors: Contributor[] = [
   {
     name: "Siddharth Biswas",
     emoji: "🗿",
-    favoriteQuote: "Why spend 5 minutes doing something, when you can waste 5 hours failing to automate it",
-    twitterUrl: "https://twitter.com/atlas_dev-2002",
+    favoriteQuote: "Why spend 5 minutes doing something, when you can waste 5 hours failing to automate",
+    twitterUrl: "https://twitter.com/atlas_dev2002",
   },
 ];
 
